@@ -1,0 +1,5 @@
+print("Hola mundo soy rama 1")
+
+a=56
+b=76
+suma=s+b
